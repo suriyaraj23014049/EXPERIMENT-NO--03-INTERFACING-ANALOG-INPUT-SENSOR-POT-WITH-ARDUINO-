@@ -121,7 +121,8 @@ void loop()
 [My image](username.github.com/repository/img/image.jpg)
 
 ![image](https://github.com/suriyaraj23014049/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151116233/aeed48ce-de6c-4ba4-ba9b-fb6900db7da1)
-![image](https://github.com/suriyaraj23014049/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151116233/5276a070-0978-4c17-ac21-82d20aacd036)
+![image](https://github.com/suriyaraj23014049/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151116233/d8a5e507-0652-4586-8f66-5c10b50a205f)
+
 
 
 
